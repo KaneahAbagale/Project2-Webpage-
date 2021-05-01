@@ -1,0 +1,35 @@
+body {  
+    background-image: url('my pic 12.jp');
+    background-repeat: no-repeat;
+    border: 20px double rgb(184, 125, 184);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}   
+header {
+    font-size: 70px;
+    font-weight: 200;
+    font-style: italic;
+}
+p, header {
+    border: 5px solid palevioletred;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+p {
+    font-size: 20px;
+}
+#img {
+    float: left;
+}
+a {
+    font-size: 20px;
+    font-weight: 50px;
+    color: rgb(6, 61, 97);
+}
